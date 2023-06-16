@@ -11,6 +11,11 @@ import img10 from "../media/10.jpg"
 import img11 from "../media/11.jpg"
 import img12 from "../media/12.jpg"
 import img13 from "../media/about.jpg"
+import img14 from "../media/13.jpg"
+import img15 from "../media/14.jpg"
+import img16 from "../media/15.jpg"
+import img17 from "../media/16.jpg"
+import img18 from "../media/17.jpg"
 
 const Gallery = () =>{
     return(
@@ -29,6 +34,11 @@ const Gallery = () =>{
                 <Photo src={img11}/>
                 <Photo src={img12}/>
                 <Photo src={img13}/>
+                <Photo src={img14}/>
+                <Photo src={img15}/>
+                <Photo src={img16}/>
+                <Photo src={img17}/>
+                <Photo src={img18}/>
             </div>
         </div>
     )
