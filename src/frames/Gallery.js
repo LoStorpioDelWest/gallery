@@ -14,16 +14,14 @@ import img13 from "../media/about.jpg"
 import img14 from "../media/13.jpg"
 import img15 from "../media/14.jpg"
 import img16 from "../media/15.jpg"
-import img17 from "../media/16.jpg"
 
 const Gallery = () => {
     return (
         <div className="w-full min-h-screen py-24 flex items-center justify-center bg-white px-7" id="gallery">
             <div className="grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 gap-2">
-                <Photo src={img14} />
                 <Photo src={img15} />
+                <Photo src={img14} />
                 <Photo src={img16} />
-                <Photo src={img17} />
                 <Photo src={img1} />
                 <Photo src={img2} />
                 <Photo src={img3} />
