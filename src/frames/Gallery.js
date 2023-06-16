@@ -15,30 +15,28 @@ import img14 from "../media/13.jpg"
 import img15 from "../media/14.jpg"
 import img16 from "../media/15.jpg"
 import img17 from "../media/16.jpg"
-import img18 from "../media/17.jpg"
 
-const Gallery = () =>{
-    return(
+const Gallery = () => {
+    return (
         <div className="w-full min-h-screen py-24 flex items-center justify-center bg-white px-7" id="gallery">
             <div className="grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 gap-2">
-                <Photo src={img1}/>
-                <Photo src={img2}/>
-                <Photo src={img3}/>
-                <Photo src={img4}/>
-                <Photo src={img5}/>
-                <Photo src={img6}/>
-                <Photo src={img7}/>
-                <Photo src={img8}/>
-                <Photo src={img9}/>
-                <Photo src={img10}/>
-                <Photo src={img11}/>
-                <Photo src={img12}/>
-                <Photo src={img13}/>
-                <Photo src={img14}/>
-                <Photo src={img15}/>
-                <Photo src={img16}/>
-                <Photo src={img17}/>
-                <Photo src={img18}/>
+                <Photo src={img14} />
+                <Photo src={img15} />
+                <Photo src={img16} />
+                <Photo src={img17} />
+                <Photo src={img1} />
+                <Photo src={img2} />
+                <Photo src={img3} />
+                <Photo src={img4} />
+                <Photo src={img5} />
+                <Photo src={img6} />
+                <Photo src={img7} />
+                <Photo src={img8} />
+                <Photo src={img9} />
+                <Photo src={img10} />
+                <Photo src={img11} />
+                <Photo src={img12} />
+                <Photo src={img13} />
             </div>
         </div>
     )
@@ -46,9 +44,9 @@ const Gallery = () =>{
 
 const Photo = ({
     src = ""
-}) =>{
-    return(
-        <img className="col-span-1 w-[400px]" src={src}/>
+}) => {
+    return (
+        <img className="col-span-1 w-[400px]" src={src} />
     )
 }
 
