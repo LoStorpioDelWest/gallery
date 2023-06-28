@@ -90,7 +90,7 @@ function App() {
                   <MoreLink text="Touring dates" closeDropDown={() => setOpenedMore(false)} href="touring" position="center" />
                   <MoreLink text="Rules" closeDropDown={() => setOpenedMore(false)} href="rules" position="center" />
 
-                  {!menuQuery3 && <MoreLink text="Twitter" closeDropDown={() => setOpenedMore(false)} href="https://twitter.com/chilegirl789" />}
+                  {!menuQuery3 && <MoreLink text="Twitter" closeDropDown={() => setOpenedMore(false)} href="https://twitter.com/latinababy789" />}
                 </div>
               </div>
               :
@@ -102,7 +102,7 @@ function App() {
               </>
           }
 
-          {menuQuery3 && <a href="https://twitter.com/chilegirl789"><BsTwitter color="#000" size={20} className="cursor-pointer" /></a>}
+          {menuQuery3 && <a href="https://twitter.com/latinababy789"><BsTwitter color="#000" size={20} className="cursor-pointer" /></a>}
         </div>
       </div>
 
