@@ -45,7 +45,7 @@ function App() {
 
       <div className="w-full h-[80px] flex items-center justify-center bg-lpink px-10 fixed top-0 z-40">
         <div className="flex items-center justify-between h-full w-full max-w-[1400px]">
-          <p className="text-2xl font-semibold">Mia Mae</p>
+          <p className="text-2xl font-semibold">Tia Mae</p>
           {
             menuQuery3 &&
             <>

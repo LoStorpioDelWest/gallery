@@ -15,8 +15,8 @@ const HowToBook = () => {
                 For existing clients I’ve seen this won’t be needed.<br /><br />
                 To continue with the booking procedure, follow through with
                 one of my contact methods.<br /><br />
-                <b>Phone #</b> 437-882-2209 (Text only)<br />
-                <b>Email:</b> miamae6914@gmail.com
+                <b>Phone #</b> 647-621-3597 (Text only)<br />
+                <b>Email:</b> tialove6914@gmail.com
             </p>
         </div>
     )
