@@ -15,14 +15,14 @@ const About = ({
         <div className="relative w-full bg-vanilla min-h-screen flex flex-col items-center relative py-24" id="about">
             <div className="w-full h-fit flex flex-col sp:flex-row items-center justify-center px-5">
                 <div className="px-5 py-3 bg-white w-fit max-w-[500px] max-h-[600px] text-lg overflow-y-scroll noscroll">
-                    Fall in love with me within 60 minutes or just by continuing to
+                    Fall in Sky with me within 60 minutes or just by continuing to
                     read more about me below ;)<br /><br />
                     Beyond what you can see on my photos (aka my firm god gifted
                     Latina derriere and 34 DD breasts) I promise my juicy heart
                     shaped lips, high cheek bones, and crystal green eyes will
                     charm you instantly. Even though my face isn’t shown for
                     privacy issues my modelling experience will assure you that
-                    you’re in for a treat, I love seeing my new clients faces when
+                    you’re in for a treat, I Sky seeing my new clients faces when
                     they’re in shock of the Chilean Latina goddess that’s brought in
                     front of their sugar lusted eyes.
                     <br /><br />
@@ -88,40 +88,40 @@ const About = ({
                     className="mySwiper max-w-[800px] w-full"
                 >
                     <SwiperSlide className="w-fit">
-                        <Review name="PrinceJ" text="I saw Tia Love before heading to Europe and let me tell you she has me typing this message 4000 miles away from Canada.. her pictures don’t do her justice..especially with those juicy plump lips, best bbj experience ive received, treat her good fellas" />
+                        <Review name="PrinceJ" text="I saw Lana Sky before heading to Europe and let me tell you she has me typing this message 4000 miles away from Canada.. her pictures don’t do her justice..especially with those juicy plump lips, best bbj experience ive received, treat her good fellas" />
                     </SwiperSlide>
                     <SwiperSlide>
                         <Review name="William72" text="Saw the ad, was skeptical at first with the deposit as I’ve never done this before but glad I followed through, very open minded and you can tell she loves what she does which is rare nowdays" />
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Review name="Bp1241" text="As an avid Diamond agency person Tia has completely stopped this for me as I became a regular for her, im a very picky person especially when it comes to RP but Tia is extremely patient and intellectual which was also a big turn on for me" />
+                        <Review name="Bp1241" text="As an avid Diamond agency person Lana has completely stopped this for me as I became a regular for her, im a very picky person especially when it comes to RP but Lana is extremely patient and intellectual which was also a big turn on for me" />
                     </SwiperSlide>
                     <SwiperSlide>
                         <Review name="Blueman2" text="Very busy woman but very much worth the wait" />
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Review name="Chipdude69" text="Tia was amazing!! Did overnights with her and was way more into kink friendly suggestions which is a bonus" />
+                        <Review name="Chipdude69" text="Lana was amazing!! Did overnights with her and was way more into kink friendly suggestions which is a bonus" />
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Review name="Canuckslover63" text="I had a session with Tia Love at her downtown incall not too long ago, very adorable, petite, with an amazing body and damn, she gives an excellent tease to build up tension. It’s good to know she’s good for the price she charges" />
+                        <Review name="Canuckslover63" text="I had a session with Lana Sky at her downtown incall not too long ago, very adorable, petite, with an amazing body and damn, she gives an excellent tease to build up tension. It’s good to know she’s good for the price she charges" />
                     </SwiperSlide>
                     <SwiperSlide>
                         <Review name="Monsterzero" text="Sadly doesn’t offer duos but when she told me it won’t be necessary since handling her is already difficult enough she was not kidding, very legit and knows how to use those lips of hers, bbj was done PFE..highly recommend it" />
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Review name="Rockson" text="Contacted her via email for an online session since I like to build up connection and was 100% worth it. Ended up doing 3 online sessions as I ended up travelling for work but still communicated with Tia, will be seeing her when I’m back in 1-2 months.. will be writing a follow up review, Thank you, my darling Tia, I can’t wait" />
+                        <Review name="Rockson" text="Contacted her via email for an online session since I like to build up connection and was 100% worth it. Ended up doing 3 online sessions as I ended up travelling for work but still communicated with Lana, will be seeing her when I’m back in 1-2 months.. will be writing a follow up review, Thank you, my darling Lana, I can’t wait" />
                     </SwiperSlide>
                     <SwiperSlide>
                         <Review name="Geniedutch" text="Emailed her to see her availability but wasn’t able to schedule me till a week after since she said she had exams, but after we scheduled she definitely made up for me being patient, highly recommend" />
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Review name="Will2serveU" text="Gentlemen, I just wanted to put in a quick plug for Tia who is a truly hidden gem …hot session. Reverse cowgirl is forever etched in my memory, unfortunately I am heading back to the States but as she requested for me to leave a review this will not do her any justice. You must experience it for yourself" />
+                        <Review name="Will2serveU" text="Gentlemen, I just wanted to put in a quick plug for Lana who is a truly hidden gem …hot session. Reverse cowgirl is forever etched in my memory, unfortunately I am heading back to the States but as she requested for me to leave a review this will not do her any justice. You must experience it for yourself" />
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Review name="GeneralG" text="I reached out after a cancellation, and Miss Tia Love did not disappoint. Very personable, friendly, and the skills on point. One of the greatest asses around, and knows how to get to work. Great communication for this meeting, 10/10 would recommend and visit again." />
+                        <Review name="GeneralG" text="I reached out after a cancellation, and Miss Lana Sky did not disappoint. Very personable, friendly, and the skills on point. One of the greatest asses around, and knows how to get to work. Great communication for this meeting, 10/10 would recommend and visit again." />
                     </SwiperSlide>
                     <SwiperSlide>
-                        <Review name="LongHorn" text="Tia immediately made me feel comfortable and at ease with her warm, friendly demeanour. She listened carefully to my concerns and tailored the session to my needs no worries. She asked me to cuddle to warm her up before she started giving me a massage which was pretty damn cute… I couldn’t help but feast my eyes on her absolutely perfect body, this goddess's skills were truly angelic. Beautiful perky breasts with responsive nipples. Nice voluptuous round bum and one of the prettiest and tightest little kitties I have had the pleasure to be inside… I will keep the details to my memories but I would highly recommend her" />
+                        <Review name="LongHorn" text="Lana immediately made me feel comfortable and at ease with her warm, friendly demeanour. She listened carefully to my concerns and tailored the session to my needs no worries. She asked me to cuddle to warm her up before she started giving me a massage which was pretty damn cute… I couldn’t help but feast my eyes on her absolutely perfect body, this goddess's skills were truly angelic. Beautiful perky breasts with responsive nipples. Nice voluptuous round bum and one of the prettiest and tightest little kitties I have had the pleasure to be inside… I will keep the details to my memories but I would highly recommend her" />
                     </SwiperSlide>
                 </Swiper>
             </div>

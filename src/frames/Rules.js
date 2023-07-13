@@ -11,7 +11,7 @@ const Rules = () => {
                         <b>1. </b>
                         <i>
                             To experience my services fully I do require you to shower
-                            before or at my incall location as I love to provide authentic
+                            before or at my incall location as I Sky to provide authentic
                             GFE services along with others
                         </i>
                     </p>
